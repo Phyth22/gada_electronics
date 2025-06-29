@@ -33,3 +33,5 @@ permission_query_conditions = {
 # Optional Boot Session or Startup hooks (uncomment if you implement them)
 # boot_session = "gada_electronics.boot.boot_session"
 # startup = "gada_electronics.startup.startup"
+
+fixtures = ["Account"]

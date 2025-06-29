@@ -1,0 +1,41 @@
+[
+ {
+  "account_name": "Assets",
+  "account_number": "1000",
+  "account_type": "Liability",
+  "docstatus": 0,
+  "doctype": "Account",
+  "is_group": 1,
+  "modified": "2025-06-29 21:03:35.127148",
+  "name": "vt8t1uqdqe",
+  "old_parent": "",
+  "opening_balance": 0.0,
+  "parent_account": null
+ },
+ {
+  "account_name": "Income",
+  "account_number": "4000",
+  "account_type": "Income",
+  "docstatus": 0,
+  "doctype": "Account",
+  "is_group": 1,
+  "modified": "2025-06-29 21:09:10.306402",
+  "name": "35v25l3sp3",
+  "old_parent": "",
+  "opening_balance": 0.0,
+  "parent_account": null
+ },
+ {
+  "account_name": "Expenses",
+  "account_number": "5000",
+  "account_type": "Expenses",
+  "docstatus": 0,
+  "doctype": "Account",
+  "is_group": 1,
+  "modified": "2025-06-29 21:10:45.121530",
+  "name": "43j8ijdbue",
+  "old_parent": "",
+  "opening_balance": 0.0,
+  "parent_account": null
+ }
+]
